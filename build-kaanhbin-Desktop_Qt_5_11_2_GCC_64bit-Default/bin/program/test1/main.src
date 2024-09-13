@@ -1,0 +1,6 @@
+MAIN
+    WHILE 1 DO
+        L <p2,v100,z10,o0,false>
+    END_WHILE
+    
+END_MAIN

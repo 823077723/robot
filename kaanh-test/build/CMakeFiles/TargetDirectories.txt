@@ -1,0 +1,3 @@
+/home/kaanh/Desktop/xyn/kaanh-test/build/CMakeFiles/rebuild_cache.dir
+/home/kaanh/Desktop/xyn/kaanh-test/build/CMakeFiles/edit_cache.dir
+/home/kaanh/Desktop/xyn/kaanh-test/build/CMakeFiles/sixaxisrobot.dir
